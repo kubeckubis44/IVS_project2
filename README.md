@@ -1,4 +1,4 @@
-# IVS_project_2
+# IVS project 2
 ## Platforms
   Ubuntu 64bit
 ## Authors
