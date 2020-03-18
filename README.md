@@ -2,7 +2,7 @@
 ## Platforms
   Ubuntu 64bit
 ## Authors
-  xsusik00 Josef Susík 
+  xsusik00 Josef Susík <br />
   xsucha17 Adam Šucha 
   xdudaj02 Jakub Duda 
   xputal00 Marek Putala
