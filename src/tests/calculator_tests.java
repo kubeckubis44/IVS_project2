@@ -66,20 +66,20 @@ public class calculator_tests{
     public void Nasobeni_test(){
         
         //tyto testy by se mely rovnat
-        assertTrue(0 == math.Odcitani(0, 0));
-        assertTrue(6 == math.Odcitani(2, 3));
-        assertTrue(-40 == math.Odcitani(-10, 4));
-        assertTrue(200 == math.Odcitani(-20, -10));
-        assertTrue(-13104 == math.Odcitani(-84, 156));
-        assertTrue(0 == math.Odcitani(100000, 0));
-        assertTrue(19.6875 == math.Odcitani(2.25, 8.75));
-        assertTrue(-3.86508 == math.Odcitani(-12.468, 0.31));
+        assertTrue(0 == math.Nasobeni(0, 0));
+        assertTrue(6 == math.Nasobeni(2, 3));
+        assertTrue(-40 == math.Nasobeni(-10, 4));
+        assertTrue(200 == math.Nasobeni(-20, -10));
+        assertTrue(-13104 == math.Nasobeni(-84, 156));
+        assertTrue(0 == math.Nasobeni(100000, 0));
+        assertTrue(19.6875 == math.Nasobeni(2.25, 8.75));
+        assertTrue(-3.86508 == math.Nasobeni(-12.468, 0.31));
 
         //tyto testy by se nemely rovnat
-        assertFalse(1000000 == math.Odcitani(1000000, 0));
-        assertFalse(-2.5 == math.Odcitani(-1.5, 2));
-        assertFalse(1 == math.Odcitani(123, 1));
-        assertFalse(3.4598 == math.Odcitani(3.125, 5.649));
+        assertFalse(1000000 == math.Nasobeni(1000000, 0));
+        assertFalse(-2.5 == math.Nasobeni(-1.5, 2));
+        assertFalse(1 == math.Nasobeni(123, 1));
+        assertFalse(3.4598 == math.Nasobeni(3.125, 5.649));
 
     }
 
@@ -223,4 +223,5 @@ public class calculator_tests{
         assertFalse(-1000 == math.Mocnina(-2, 4));
         assertFalse(-20 == math.Mocnina(-20, 3));
     }
+
 }
