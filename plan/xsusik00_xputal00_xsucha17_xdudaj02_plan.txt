@@ -1,0 +1,61 @@
+1. Deadlines
+	- 16.3.2020 (Agreement on programming language, Project planning)
+	- 18.3.2020 (Readme file, Project start)
+	- 25.3.2020 (Math library tests, GUI interface)
+	- 1.4.2020  (Math library implementation)
+	- 7.4.2020  (Deviation program)
+	- 11.4.2020 (Link math library with GUI)
+	- 15.4.2020 (Program documentation, Application installer/uninstaller)
+	- 18.4.2020 (Mockup GUI, makefile)
+	- 20.4.2020 (User documentation)
+	- 22.4.2020 (Create .txt file according to assignment)
+	- 7.5.2020  (PDF presentation, xloginNN_problemy.txt)
+
+2. Project solving
+	-xsusik00 (Josef Susík)
+		- Readme file
+		- GUI 
+		- Mockup GUI
+		- Link GUI with Math library
+		- Deviation program
+		- Doxygen documentation
+		- Installer/Uninstaller
+
+
+	-xputal00 (Marek Putala)
+		- Math library tests
+		- Math library
+		- Deviation program
+		- Doxygen documentation
+		- Installer/Uninstaller
+
+	-xsucha17 (Adam Šucha)
+		- GUI
+		- Mockup GUI
+		- Link GUI with Math library 
+		- Deviation program
+		- Doxygen documentation
+		- PDF presentation 
+		
+		
+	-xdudaj02 (Jakub Duda)
+		- Math library tests
+		- Math library
+		- Deviation program
+		- Doxygen documentation
+		- Makefile
+		- User documetation
+	
+	- Everyone creates their .txt files according to assignment
+
+3. Communication
+	- We decided to use discord as our main communication channel and Messenger as a secondary channel. 
+	- Github for repository updates and keeping up with others work.
+	- Everyone has to check communication channels at least once a day.
+	
+4. Version control system
+	- Git
+	- Hosting -> https://github.com/
+	- Our repository -> https://github.com/JosephSusik/IVS_project2 
+		- Owner -> Josef Susík (xsusik00)
+		- Added ivskontrola (has to accept invite)
